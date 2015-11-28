@@ -1,0 +1,10 @@
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\bin\Debug\documentDB.exe.config
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\obj\Debug\documentDB.csprojResolveAssemblyReference.cache
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\bin\Debug\documentDB.exe
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\bin\Debug\documentDB.pdb
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\obj\Debug\documentDB.exe
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\documentDB\obj\Debug\documentDB.pdb

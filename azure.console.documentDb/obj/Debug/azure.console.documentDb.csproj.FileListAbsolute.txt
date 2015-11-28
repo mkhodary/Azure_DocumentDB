@@ -1,0 +1,10 @@
+c:\users\moham_000\documents\visual studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\bin\Debug\azure.console.documentDb.exe.config
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\obj\Debug\azure.console.documentDb.csprojResolveAssemblyReference.cache
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\bin\Debug\azure.console.documentDb.exe
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\bin\Debug\azure.console.documentDb.pdb
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\obj\Debug\azure.console.documentDb.exe
+C:\Users\moham_000\Documents\Visual Studio 2013\Projects\azure.console.documentDb\azure.console.documentDb\obj\Debug\azure.console.documentDb.pdb
